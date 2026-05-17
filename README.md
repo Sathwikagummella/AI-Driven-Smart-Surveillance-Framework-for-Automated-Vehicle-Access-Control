@@ -28,7 +28,7 @@ Database: SQLite / CSV
 
 Tools: EasyOCR, Haar Cascade
 
-🔹 Project Workflow
+## Project Workflow
 Vehicle image upload or capture
 
 Number plate detection using Deep Learning
@@ -41,7 +41,7 @@ OTP authentication for visitors
 
 Real-time dashboard updates & logging
 
-🔹 Outcomes
+## Outcomes
 92% Plate Detection Accuracy
 
 89% OCR Recognition Accuracy
@@ -50,7 +50,7 @@ Fully Automated Access Verification System
 
 Reduced manual intervention and improved security
 
-🔹 Applications
+## Applications
 Gated Communities
 
 University Campuses
@@ -61,7 +61,7 @@ Industrial Facilities
 
 Smart City Security Systems
 
-🔹 Future Enhancements
+## Future Enhancements
 Live CCTV/RTSP video stream integration
 
 YOLOv8 implementation for improved accuracy
@@ -72,5 +72,5 @@ Mobile app for visitor approvals
 
 Multi-camera centralized monitoring
 
-🔹 Team
+## Group Project
 Developed by Information Technology students as a final-year academic project focused on combining AI, OCR, and Web Technologies for smart surveillance solutions.
