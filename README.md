@@ -1,4 +1,5 @@
-#🚗 PRAVIGIL – AI-Driven Smart Vehicle Access Control System
+🚗 PRAVIGIL – AI-Driven Smart Vehicle Access Control System
+
 PRAVIGIL is an AI-powered smart surveillance framework designed to automate vehicle access control using Deep Learning, Computer Vision, and OCR technologies. The system detects vehicle number plates, extracts text using OCR, validates vehicle information against authorized and blacklist databases, and provides OTP-based visitor authentication through a real-time web dashboard. 
 
 
