@@ -1,0 +1,6 @@
+#note to students
+Telecom networks charge money to bridge the internet with cellular SMS networks, which is why almost all SMS methods require a third-party gateway like Twilio, and it's not possible to get otp to whatever number using Twilio also
+
+That's why we hardcoded 123456 as otp in our code.
+
+As it is prototype we'll show the hardcoded otp

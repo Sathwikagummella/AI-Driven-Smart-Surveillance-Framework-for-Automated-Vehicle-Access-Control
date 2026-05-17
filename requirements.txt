@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+Flask-Bcrypt
+ultralytics
+easyocr
+opencv-python
+pandas
+Werkzeug
